@@ -3,4 +3,4 @@ Credit Card Clustering (PCA + Kmeans + Agglomerative Hierarchical + Gaussian Mix
 
 # Credit Card Clustering
 
-![Header](pictures/header_cc.png)
+![Header](header_cc.png)

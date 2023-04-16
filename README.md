@@ -39,3 +39,13 @@ Following is the Data Dictionary for Credit Card dataset:
 * PRCFULLPAYMENT: Percent of full payment paid by user
 * TENURE: Tenure of credit card service for user
 
+# Data Cleaning
+
+One of the most important preprocessing steps in a Data Science project. In this project, I imputed missing values with the median value, dropped the CUST_ID column, then For our application I am looking for a good visualization so I would like to handle the skewness as much as possible as it will help the model to form better clusters.
+
+##  Feature Extraction with PCA
+ 
+Use PCA to reduce the dimensionality of our data. Select an appropriate number of components and analyze total variance explained. Interpret to make sense of the principal components.
+
+##Cluster Kmean with PCA
+In this section we will perform K-Means clustering on the data and check the clustering metrics (inertia, silhouette scores).

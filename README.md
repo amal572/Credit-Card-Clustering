@@ -47,5 +47,6 @@ One of the most important preprocessing steps in a Data Science project. In this
  
 Use PCA to reduce the dimensionality of our data. Select an appropriate number of components and analyze total variance explained. Interpret to make sense of the principal components.
 
-##Cluster Kmean with PCA
+## Cluster Kmean with PCA
 In this section we will perform K-Means clustering on the data and check the clustering metrics (inertia, silhouette scores).
+![Header](header_cc.png)

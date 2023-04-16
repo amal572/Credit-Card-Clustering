@@ -49,4 +49,10 @@ Use PCA to reduce the dimensionality of our data. Select an appropriate number o
 
 ## Cluster Kmean with PCA
 In this section we will perform K-Means clustering on the data and check the clustering metrics (inertia, silhouette scores).
-![Header](header_cc.png)
+![Header](cluster1.png)
+
+## Agglomerative Hierarchical Clustering with PCA
+![Header](cluster2.png)
+
+## DBSCAN Cluster
+![Header](cluster3.png)

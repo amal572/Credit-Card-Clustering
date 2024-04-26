@@ -1,9 +1,11 @@
 # Credit-Card-Clustering
-Credit Card Clustering (PCA + Kmeans + Agglomerative Hierarchical + Gaussian Mixture + Clustering with PyCaret)
+
+This project aims to cluster credit cards based on customer-level data containing 18 behavioral variables, to define an effective marketing strategy. Techniques such as PCA, Kmeans, Agglomerative hierarchy, Gaussian Mixture, and Clustering with PyCaret are utilized for credit card clustering.
 
 # Credit Card Clustering
 
 ![Header](header_cc.png)
+
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. You need to develop a customer segmentation to define marketing strategy from the dataset.
 
 # Objective
